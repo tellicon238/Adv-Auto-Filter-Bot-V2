@@ -366,7 +366,7 @@ class Database:
 
     async def refresh_acache(self, group_id: int):
         """
-        A Funtion to refresh a active chat's chase data
+        A Funtion to  a active chat's chase data
         in case of update in db
         """
         if self.acache.get(str(group_id)):
