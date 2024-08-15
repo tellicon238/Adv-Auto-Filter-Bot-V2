@@ -15,7 +15,7 @@ APP_ID = int(os.environ.get("11352440")
 
 API_HASH = os.environ.get("0363a7c12ed2864e55f397c789097478")
 
-BOT_TOKEN = os.environ.get("7219533594:AAEnnvwtIPIfpVeRoG1jdk-m0fUyWUZ6K5Y")
+BOT_TOKEN = os.environ.get("AAEnnvwtIPIfpVeRoG1jdk-m0fUyWUZ6K5Y")
 
 DB_URI = os.environ.get("mongodb+srv://Heizancs:heizan@tellicon.hpltxcm.mongodb.net/?retryWrites=true&w=majority&appName=Tellicon
 
