@@ -13,7 +13,7 @@ from .translation import Translation
 # Change Accordingly While Deploying To A VPS
 APP_ID = int(os.environ.get("11352440")
 
-API_HASH = os.environ.get("0363a7c12ed2864e55f397c789097478")
+API_HASH = os.environ.get("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")
 
 BOT_TOKEN = os.environ.get("AAEnnvwtIPIfpVeRoG1jdk-m0fUyWUZ6K5Y")
 
