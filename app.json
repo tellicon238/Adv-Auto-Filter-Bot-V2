@@ -1,33 +1,33 @@
 {
-    "name": "Auto Filter Bot V2",
+    "name": "Tellicon-bot",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
-    "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
+    "logo": "https://i.imghippo.com/files/cCLOu1723613805.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/CrazyBotsz",
-    "repository": "https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/CrazyBotsz",
+    "website": "https://github.com/tellicon238/Telliconv3-BOT.git",
+    "repository": "https://github.com/tellicon238/Telliconv3-BOT.git",
+    "success_url": "https://telegram.dog/tellicon",
     "env": {
-        "APP_ID": {
+        "APP_ID": {11352440
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
             "value": ""
-        },
-        "API_HASH": {
+        } 
+        "API_HASH": {0363a7c12ed2864e55f397c789097478
             "description": "Your API Hash From my.telegram.org or @UseTGXBot",
             "value": ""
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {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
             "description": "Your Bot Token From @BotFather",
             "value": ""
         },
-        "DB_URI": {
+        "DB_URI": {mongodb+srv://Heizancs:Heizan@tellicon.hpltxcm.mongodb.net/?retryWrites=true&w=majority&appName=Tellicon
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
-        "USER_SESSION": {
+        "USER_SESSION": {777000
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
             "value": ""
         }
