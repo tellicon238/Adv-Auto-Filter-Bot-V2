@@ -6,22 +6,22 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Upload Python Package
+name:PYTHON-VERSION
 
 on:
-  release:
+  release:Movie-filter-bot
     types: [published]
 
 permissions:
   contents: read
 
 jobs:
-  deploy:
+  deploy:https://replit.com/join/miwhioamhc-cpshafeeques
 
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@tellicn123
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
